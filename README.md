@@ -1,5 +1,5 @@
 # 💫 About Me:
-Meu nome é Samuel Sena e sou desenvolvedor front end. <br>Tenho experiencia na criação de interfaces web e mobile, <br>utilizando as últimas tecnologias e boas práticas de <br>desenvolvimento. Meu objetivo é sempre entregar projetos <br>de alta qualidade. Estou sempre buscando aprender e aprimorar<br>minhas habilidades para poder oferecer o melhor trabalho possível.
+Meu nome é Samuel Sena e sou desenvolvedor front end.Tenho experiencia na criação de interfaces web e mobile, utilizando as últimas tecnologias e boas práticas de desenvolvimento. Meu objetivo é sempre entregar projetos de alta qualidade. Estou sempre buscando aprender e aprimorar minhas habilidades para poder oferecer o melhor trabalho possível.
 
 
 ## 🌐 Socials:
