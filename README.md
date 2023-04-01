@@ -1,5 +1,7 @@
 # 💫 About Me:
-👨‍💻About me: <br>Meu nome é Samuel Sena e sou desenvolvedor front end.<br>Tenho experiência na criação de interfaces web e mobile, <br>utilizando as últimas tecnologias e boas práticas de <br>desenvolvimento. Meu objetivo é sempre entregar projetos de<br> alta qualidade. Estou sempre buscando aprender e aprimorar minhas <br>habilidades para poder oferecer o melhor trabalho possível.<br><br>🔭 Atualmente sou colaborador voluntário e aluno de uma mentoria na Givisiez Transformação Digital<br>👯 Dei inicio a um projeto pessoal onde publicarei artigos sobre front end (em breve)<br>🌱 Estou buscando evoluir todos os dias através de muita prática e estudo.<br>⚡ Estou empenhado em evoluir cada vez mais como pessoa e como desenvolvedor web.<br>🎮Nas horas livres adoro jogar videogames em geral.
+👨‍💻About me: Meu nome é Samuel Sena e sou desenvolvedor front end.Tenho experiência na criação de interfaces web e mobile, utilizando as últimas tecnologias e boas práticas de desenvolvimento. Meu objetivo é sempre entregar projetos de alta qualidade. Estou sempre buscando aprender e aprimorar minhas habilidades para poder oferecer o melhor trabalho possível.
+
+<br><br>🔭 Atualmente sou colaborador voluntário e aluno de uma mentoria na Givisiez Transformação Digital<br>👯 Dei inicio a um projeto pessoal onde publicarei artigos sobre front end (em breve)<br>🌱 Estou buscando evoluir todos os dias através de muita prática e estudo.<br>⚡ Estou empenhado em evoluir cada vez mais como pessoa e como desenvolvedor web.<br>🎮Nas horas livres adoro jogar videogames em geral.
 
 
 
